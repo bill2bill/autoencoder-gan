@@ -1,0 +1,3 @@
+[submodule "latent-diffusion-compvis"]
+	path = latent-diffusion-compvis
+	url = git@github.com:CompVis/latent-diffusion.git

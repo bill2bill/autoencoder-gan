@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 .vscode
 wandb
+pretrained_models
+latent_diffusion_compvis
+autoencoder

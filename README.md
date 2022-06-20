@@ -30,3 +30,8 @@ Adding another repo as a sub module
 
     git submodule add git@github.com:CompVis/taming-transformers.git taming
 
+Install sub modules
+
+    cd autoencoder-gan
+
+    git submodule update --init --recursive

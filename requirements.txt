@@ -19,3 +19,6 @@ git+https://github.com/CompVis/latent-diffusion.git@main#egg=ldm
 wget
 ipywidgets
 tqdm
+virtualenv
+torchmetrics==0.6.0
+wandb

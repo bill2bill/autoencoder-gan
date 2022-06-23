@@ -3,3 +3,6 @@
 wandb
 pretrained_models
 autoencoder
+*.npy
+*ckpt
+*pth

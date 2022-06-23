@@ -24,3 +24,4 @@ torchmetrics==0.6.0
 wandb
 pillow
 einops
+matplotlib
